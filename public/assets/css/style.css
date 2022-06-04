@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar&family=Roboto:wght@500&family=Trade+Winds&display=swap');
+
+.font-trade{
+    font-family: 'Trade Winds', cursive;
+}
+.font-ashkar{
+    font-family: 'Akshar', sans-serif;
+}
+.font-roboto{
+    font-family: 'Roboto', sans-serif;
+
+}
+.xom{
+    border-radius: 18px 18px 0 18px;
+    padding: 8px 16px;
+    word-wrap: break-word;
+    max-width: calc(100% - 130px);
+    box-shadow: 0 0 32px rgb(0 0 0 / 8%),
+    0rem 16px 16px -16px rgb(0 0 0 / 10%);
+  }
+  .aw{
+    border-radius: 18px 18px 18px 0px;
+    margin-right: auto;
+    max-width: calc(100% - 130px);
+    word-wrap: break-word;
+    padding: 8px 16px;
+  }
+*{
+    font-family: 'Akshar', sans-serif;
+}
